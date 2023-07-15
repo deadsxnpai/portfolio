@@ -16,6 +16,7 @@ function App() {
             <div class="menu"><a href="#about">contact Me</a></div>
           </div>
           </div>
+          
         </div>
       </header>
     </div>
