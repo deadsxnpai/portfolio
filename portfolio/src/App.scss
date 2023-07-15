@@ -1,0 +1,14 @@
+$primary-color : #ffd700;
+
+@import 'animate.css';
+
+@font-face {
+  font-family: 'Josefin Sans';
+  src: url("https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,500,600,700|Poppins:300,400,600,700&display=swap");
+}
+
+input,
+textarea
+{
+  font-family: 'Josefin Sans';
+}
